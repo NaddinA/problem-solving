@@ -1,2 +1,2 @@
 # ISUCKatProblemSolving
-watchme suckat problemsolving here
+var int = string
