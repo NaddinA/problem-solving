@@ -6,7 +6,7 @@ Example: The binary representation of 1234 is 10011010010, so the function shoul
 that is equal to one then shift the binary value 1 bit to the right each time the final bit is added to the sum of BitCount. 
 This gets us total no. of 1 bits cuz each added 0 bit changes nothing. */
 
-/* For some reason this doesn't work with immensely large values and I wanna cry can't pass random tests smh lol */ 
+/* For some reason this doesn't work with immensely large values and I wanna cry can't pass random tests */ 
 
 #include <stddef.h>
 size_t countBits(unsigned value);
