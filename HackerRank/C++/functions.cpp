@@ -2,6 +2,8 @@
 #include <cstdio>
 using namespace std;
 
+// SRC: https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+
 int max_of_four(int a, int b, int c, int d)
 {
     int max;
