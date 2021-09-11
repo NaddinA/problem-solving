@@ -4,11 +4,11 @@ using namespace std;
 
 int max_of_four(int a, int b, int c, int d)
 {
-    int biggest;
+    int max;
     
-    (a > b && a > c && a > d) ? biggest = a : (b > c && b > d) ? biggest = b : c > d  ? biggest = c : biggest = d;
+    (a > b && a > c && a > d) ? max = a : (b > c && b > d) ? max = b : c > d  ? max = c : max = d;
     
-    return biggest;
+    return max;
 }
 
 int main() {
