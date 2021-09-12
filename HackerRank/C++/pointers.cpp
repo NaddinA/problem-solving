@@ -1,3 +1,5 @@
+// SRC: https://www.hackerrank.com/challenges/c-tutorial-pointer/problem
+
 #include <stdio.h>
 #include <stdlib.h>
 void update(int *a, int *b) {
