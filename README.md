@@ -1,4 +1,4 @@
-# ISUCKatProblemSolving
+# ProblemSolving
 var int = string;
 
 I made this repo to collect and portray my Problem-Solving solutions in.
